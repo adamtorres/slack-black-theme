@@ -1,6 +1,6 @@
 # Slack Black Theme
 
-A darker, more contrasty, Slack theme.
+A darker, more contrasty, Slack theme.  Now with Amplify Nation text colors.
 
 # Preview
 
@@ -32,13 +32,13 @@ document.addEventListener("DOMContentLoaded", function() {
    let cssPromise = fetch(cssPath).then(response => response.text());
 
    let customCustomCSS = `
-   :root {
+   :root {
       /* Modify these to change your theme colors: */
-      --primary: #09F;
-      --text: #CCC;
+      --primary: #fe5a1d;
+      --text: #c3db31;
       --background: #080808;
       --background-elevated: #222;
-   }
+    }
    `
 
    // Insert a style tag into the wrapper view
