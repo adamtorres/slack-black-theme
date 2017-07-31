@@ -4,7 +4,7 @@ A darker, more contrasty, Slack theme.  Now with Amplify Nation text colors.
 
 # Preview
 
-![Screenshot](https://cloud.githubusercontent.com/assets/7691630/24120350/4cbb643e-0d82-11e7-8353-5d4eb65dfd6a.png)
+![Screenshot](https://user-images.githubusercontent.com/4930766/28793390-d66f40c4-7600-11e7-85eb-b503b3f5b71f.png)
 
 # Installing into Slack
 
